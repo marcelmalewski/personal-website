@@ -5,9 +5,3 @@
   --primary: #27548A;
   --secondary: #DDA853;
 }
-
-@layer utilities {
-  .text-primary {
-    color: var(--primary);
-  }
-}
